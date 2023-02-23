@@ -1,0 +1,11 @@
+#arraialdocabo {
+  animation: 5s linear 1s infinite alternate gradientarraial;
+}
+@keyframes gradientarraial{
+
+
+  to {
+    color: #F49301
+  }
+
+}
