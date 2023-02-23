@@ -3,9 +3,15 @@
 }
 @keyframes gradientarraial{
 
-
   to {
     color: #F49301
   }
 
+}
+
+@media (max-width: 480px) {
+  #arraialdocabo {
+  animation: 5s linear 1s infinite alternate gradientarraial;
+  font-size: 38;
+}
 }
