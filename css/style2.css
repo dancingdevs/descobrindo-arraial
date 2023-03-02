@@ -10,7 +10,16 @@
 }
 
 @media (max-width: 480px) {
-#arraialdocabo {
-  font-size: 39px;
+
+#banner-title {
+  font-size: 39px!important;
+}
+
+#banner-sub-title {
+  color: rgba(240, 248, 255, 0);
+}
+
+#logo {
+  width: 90%;
 }
 }
