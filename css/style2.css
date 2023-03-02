@@ -10,8 +10,7 @@
 }
 
 @media (max-width: 480px) {
-  #arraialdocabo {
-  animation: 5s linear 1s infinite alternate gradientarraial;
-  font-size: 38;
+#arraialdocabo {
+  font-size: 39px;
 }
 }
